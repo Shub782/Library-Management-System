@@ -75,7 +75,7 @@ app.get('/books', (req, res) => {
 })
 
 app.get('/books/add', (req, res) => {
-    res.render('addbook')
+    res.render('addBook')
 })
 
 app.post('/books/add', (req, res) => {
