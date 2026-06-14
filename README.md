@@ -1,4 +1,5 @@
 **Library Management System**
+
 A full-stack Library Management System built using Node.js, Express.js, EJS, and SQLite. This application is designed to help librarians manage books, students, borrowing records, and library visits through a simple and efficient interface.
 
 **Features**
